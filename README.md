@@ -17,10 +17,7 @@ As seguintes frases foram utilizadas como entrada para a IA:
 
 A IA analisou as sentenças e identificou padrões de linguagem que indicam correlação entre temperatura e volume de vendas. Utilizamos um modelo de regressão simples para prever a quantidade de sorvetes vendidos com base em dados históricos de temperatura.
 
-
 Exemplo de interface de previsão:
-
-![Interface de previsão](https://ights obtidos
 
 - Frases com palavras como "calor", "quente" e "35°C" indicam alta demanda.
 - Frases com "chuva", "nublado" e "frio" indicam baixa demanda.
