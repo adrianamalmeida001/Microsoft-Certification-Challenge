@@ -1,0 +1,38 @@
+# 🤖📚 Chatbot Inteligente Baseado em PDFs
+Bem-vindo ao projeto **Chatbot PDF**! 🚀  
+Este projeto utiliza **IA generativa**, **embeddings** e **busca vetorial** para responder perguntas com base no conteúdo do PDF **“Controle Financeiro”**.
+
+## 🎯 Objetivos
+✅ Carregar arquivos PDF com conteúdo relevante  
+✅ Indexar e recuperar informações usando **busca vetorial**  
+✅ Utilizar IA para gerar respostas contextuais  
+✅ Criar um chat interativo para perguntas e respostas  
+
+## 🛠 Tecnologias
+- Python 🐍
+- PyMuPDF (para leitura de PDFs)
+- SentenceTransformers (para embeddings)
+- FAISS ou ChromaDB (para busca vetorial)
+- Streamlit ou Gradio (para interface do chat)
+
+## 📸 Prints do projeto
+*(Adicione aqui imagens do seu chatbot e gráficos de embeddings)*  
+![Interface do Chatbot](https://300?text=Interface+do+Chatbot  
+https://via.placeholder.com/600x300?text=Busca+Vetorial+em+PDFs
+
+## 💡 Insights obtidos
+- O PDF mostra que **controle financeiro** é essencial para bem-estar financeiro.
+- Hábitos como **registrar despesas** e **usar orçamento doméstico** são fundamentais.
+- Ferramentas digitais (planilhas, apps) aumentam a eficiência do controle.
+- IA pode transformar PDFs em assistentes inteligentes para estudo e planejamento.
+
+## 🚀 Possibilidades futuras
+- Suporte a múltiplos PDFs e idiomas.
+- Geração de resumos automáticos.
+- Exportação das respostas em PDF ou Markdown.
+- Integração com dashboards (Power BI).
+
+---
+
+📬 **Contato:** Contribua ou troque ideias!
+``
